@@ -1,0 +1,238 @@
+{
+    "id": "bde33363-78dd-4b8a-a08c-62c545593041",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "8e07d2d3-4688-4b6a-9c6f-78c7e0feaf24",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "6a35ac0c-960c-4d71-9d91-bb6956df55d2",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "168cf8d7-f0ad-4a9f-afba-05d602197fb0",
+            "Value": {
+                "id": "4e55688b-923f-486f-9d87-3141b27305e3",
+                "resourcePath": "views\\168cf8d7-f0ad-4a9f-afba-05d602197fb0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "19848da9-33aa-40f8-bc42-171ada487791",
+            "Value": {
+                "id": "3338efab-4610-475e-ad52-6a63d4cd2d29",
+                "resourcePath": "sprites\\s_car_tire\\s_car_tire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4364c04e-54ed-4250-934d-645608080863",
+            "Value": {
+                "id": "074f94a7-b8d8-43c2-9ff9-4ecc65696cb3",
+                "resourcePath": "objects\\o_collision_parent\\o_collision_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4b089b50-f0e9-44ed-a300-df515c9ba998",
+            "Value": {
+                "id": "3fccdf8a-1577-486c-8237-2e817da5f12b",
+                "resourcePath": "views\\4b089b50-f0e9-44ed-a300-df515c9ba998.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4e46f022-6e80-4531-a4f7-ccc24c2cbca3",
+            "Value": {
+                "id": "80fa5c0e-cc1f-451d-b92c-556ffb9ca263",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5143602c-3164-4e5f-bfb0-a852e4c1b34f",
+            "Value": {
+                "id": "6a8260b6-c282-461f-854d-8ea2d2e8617d",
+                "resourcePath": "views\\5143602c-3164-4e5f-bfb0-a852e4c1b34f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5abbc485-44e7-4c04-923f-2ef72be9a46e",
+            "Value": {
+                "id": "aa4d8d00-2390-4026-92b9-171f7ee0e5dd",
+                "resourcePath": "views\\5abbc485-44e7-4c04-923f-2ef72be9a46e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e2dc7e8-80c8-406b-ac80-67869980e83e",
+            "Value": {
+                "id": "a7151e26-83dd-4535-9337-e80b1a6a29c6",
+                "resourcePath": "views\\5e2dc7e8-80c8-406b-ac80-67869980e83e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6219c291-9e2e-44e7-a989-dac2c0037f76",
+            "Value": {
+                "id": "51dc174c-150f-4ca1-a7c0-cf2772dde1af",
+                "resourcePath": "objects\\o_ground\\o_ground.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "72ed32a6-b304-49d6-a7aa-ffa65e4b7627",
+            "Value": {
+                "id": "e980cdeb-209e-457a-8dc8-87c5f83e918c",
+                "resourcePath": "views\\72ed32a6-b304-49d6-a7aa-ffa65e4b7627.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7ce88d85-edbb-4b60-b572-7bd57a56db5c",
+            "Value": {
+                "id": "38b13d92-940d-4aef-8207-ed47cf2876ee",
+                "resourcePath": "views\\7ce88d85-edbb-4b60-b572-7bd57a56db5c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "82438db9-07bf-4fb0-814d-f975e37096bb",
+            "Value": {
+                "id": "faebac25-1a22-40ea-82f7-7a1829b8e9ea",
+                "resourcePath": "views\\82438db9-07bf-4fb0-814d-f975e37096bb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "82f87bb3-f49f-47ae-85dc-cd62468f32fd",
+            "Value": {
+                "id": "93efdc18-f4f6-413d-a2c8-685264d1220f",
+                "resourcePath": "views\\82f87bb3-f49f-47ae-85dc-cd62468f32fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "97c8507f-79a5-47fd-ac41-e136ba180a1d",
+            "Value": {
+                "id": "e9691984-9179-47ad-b138-55e1cc623fdb",
+                "resourcePath": "views\\97c8507f-79a5-47fd-ac41-e136ba180a1d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a0c09800-1b1c-4779-a443-9fa18def0966",
+            "Value": {
+                "id": "00ec7b2b-7fba-4545-ac0b-cc57049b2620",
+                "resourcePath": "sprites\\s_car_body\\s_car_body.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b000954b-0a64-42b7-9daa-ab2c1f15d0ca",
+            "Value": {
+                "id": "e22b4c5f-8e20-4b39-ad6e-6bafb6790d2e",
+                "resourcePath": "views\\b000954b-0a64-42b7-9daa-ab2c1f15d0ca.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd04d74b-db96-4868-8967-02e544e8cea0",
+            "Value": {
+                "id": "7ef4b36e-ae20-4954-b223-b537ba0250f7",
+                "resourcePath": "views\\bd04d74b-db96-4868-8967-02e544e8cea0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c1093567-0f9e-41cd-a1bb-e224422b301b",
+            "Value": {
+                "id": "a007e09a-e2a6-4a1b-a66e-9cdbfd593938",
+                "resourcePath": "objects\\o_car_body\\o_car_body.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb29f779-2801-4c81-9e06-fa8ba821c3fd",
+            "Value": {
+                "id": "3db0c0d4-ffbb-4a47-986d-1f8b0cef284c",
+                "resourcePath": "rooms\\r_carworld\\r_carworld.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "4ce29886-2d83-4e29-b5c7-fe7bee113859",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0a00ce2-f731-499d-a78d-499d058812e3",
+            "Value": {
+                "id": "99b66ddb-0982-4117-8208-05ecf2d05087",
+                "resourcePath": "views\\d0a00ce2-f731-499d-a78d-499d058812e3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dda34309-97b2-4ebd-b92d-6596b8c439f3",
+            "Value": {
+                "id": "647a25bd-1771-4e8c-b979-32503d8d9883",
+                "resourcePath": "views\\dda34309-97b2-4ebd-b92d-6596b8c439f3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ecdcdbe8-6e00-4dbf-93c6-c0c07ccd9685",
+            "Value": {
+                "id": "8906c4f0-b764-4226-bed6-aec7c5550d25",
+                "resourcePath": "views\\ecdcdbe8-6e00-4dbf-93c6-c0c07ccd9685.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "edf0ae56-6a6f-4910-97a3-50112f1fa5e1",
+            "Value": {
+                "id": "0a2e3bd3-4917-4bfe-ab3d-a4248fc6e2d5",
+                "resourcePath": "views\\edf0ae56-6a6f-4910-97a3-50112f1fa5e1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb32046e-a150-452d-9fa4-2bcc797b5f29",
+            "Value": {
+                "id": "7f1059d4-e293-4d50-9ffa-d0a56af3b1c6",
+                "resourcePath": "objects\\o_car_tire\\o_car_tire.yy",
+                "resourceType": "GMObject"
+            }
+        }
+    ],
+    "script_order": [
+        
+    ],
+    "tutorial": ""
+}
